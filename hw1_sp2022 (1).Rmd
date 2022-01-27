@@ -3,7 +3,7 @@ title: " Modern Data Mining, HW 1"
 author:
 - Jan ter Weele
 - Group Member 2
-- Group Member 3
+- Mackenzie Tran
 date: 'Due: 11:59PM,  Jan. 30th, 2021'
 output:
   pdf_document:
